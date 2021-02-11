@@ -4,4 +4,4 @@ The content of this website is all about the city of Columbus, Ohio, my hometown
 
 The interface designed is centered around the navigation sidebar. The fixed sidebar is the primary navigation method. Links included will send you to the appropriate page. 
 
-The live website can be viewed [here](https://emmacampbell.digitalscholar.rochester.edu/assignment01)
+The live website can be viewed [here](https://emmacampbell.digitalscholar.rochester.edu/assignments/assignment01/index.html)
